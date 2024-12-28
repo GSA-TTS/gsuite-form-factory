@@ -1,3 +1,7 @@
+# ARCHIVED
+
+An experiment in GSuite scripting. An attempt to create a scheduling form that is self-modifying. Did not work well.
+
 # gsuite form factory
 
 This GSuite script is intended to help ease the pain of creating forms for scheduling research participants.
